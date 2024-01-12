@@ -13,5 +13,6 @@ int main()
     satluku = rand() % 40;
     cout << satluku << endl;
 
+    cout << "muuttunut" << endl;
     return 0;
 }
